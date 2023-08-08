@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Naac-frontend/static/css/main.5eb7dd5a.css",
-    "main.js": "/Naac-frontend/static/js/main.ccbc4914.js",
-    "static/js/496.640516ce.chunk.js": "/Naac-frontend/static/js/496.640516ce.chunk.js",
-    "index.html": "/Naac-frontend/index.html",
-    "main.5eb7dd5a.css.map": "/Naac-frontend/static/css/main.5eb7dd5a.css.map",
-    "main.ccbc4914.js.map": "/Naac-frontend/static/js/main.ccbc4914.js.map",
-    "496.640516ce.chunk.js.map": "/Naac-frontend/static/js/496.640516ce.chunk.js.map"
+    "main.css": "/Naac-frontend/index.html/static/css/main.5eb7dd5a.css",
+    "main.js": "/Naac-frontend/index.html/static/js/main.7d562896.js",
+    "static/js/496.640516ce.chunk.js": "/Naac-frontend/index.html/static/js/496.640516ce.chunk.js",
+    "index.html": "/Naac-frontend/index.html/index.html",
+    "main.5eb7dd5a.css.map": "/Naac-frontend/index.html/static/css/main.5eb7dd5a.css.map",
+    "main.7d562896.js.map": "/Naac-frontend/index.html/static/js/main.7d562896.js.map",
+    "496.640516ce.chunk.js.map": "/Naac-frontend/index.html/static/js/496.640516ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb7dd5a.css",
-    "static/js/main.ccbc4914.js"
+    "static/js/main.7d562896.js"
   ]
 }
