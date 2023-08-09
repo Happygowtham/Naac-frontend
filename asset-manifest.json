@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/naac-dbcy/static/css/main.5eb7dd5a.css",
-    "main.js": "/naac-dbcy/static/js/main.e3011d72.js",
+    "main.js": "/naac-dbcy/static/js/main.10486f49.js",
     "static/js/496.640516ce.chunk.js": "/naac-dbcy/static/js/496.640516ce.chunk.js",
     "index.html": "/naac-dbcy/index.html",
     "main.5eb7dd5a.css.map": "/naac-dbcy/static/css/main.5eb7dd5a.css.map",
-    "main.e3011d72.js.map": "/naac-dbcy/static/js/main.e3011d72.js.map",
+    "main.10486f49.js.map": "/naac-dbcy/static/js/main.10486f49.js.map",
     "496.640516ce.chunk.js.map": "/naac-dbcy/static/js/496.640516ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb7dd5a.css",
-    "static/js/main.e3011d72.js"
+    "static/js/main.10486f49.js"
   ]
 }
